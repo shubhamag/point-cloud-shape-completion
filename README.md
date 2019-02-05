@@ -8,10 +8,11 @@ Tensorflow implementation of our paper, " High Fidelity Semantic Shape Completio
 
 ## Citation
 If you use this code, please cite our, work:
-
+```
   @article{gurumurthy2018high,
     title={High fidelity semantic shape completion for point clouds using latent optimization},
     author={Gurumurthy, Swaminathan and Agrawal, Shubham},
     journal={arXiv preprint arXiv:1807.03407},
     year={2018}
   }
+```
